@@ -1,0 +1,7 @@
+C:\Users\victor.hsantos45\source\repos\Aula03Variaveis\Aula03Variaveis\bin\Debug\Aula03Variaveis.exe.config
+C:\Users\victor.hsantos45\source\repos\Aula03Variaveis\Aula03Variaveis\bin\Debug\Aula03Variaveis.exe
+C:\Users\victor.hsantos45\source\repos\Aula03Variaveis\Aula03Variaveis\bin\Debug\Aula03Variaveis.pdb
+C:\Users\victor.hsantos45\source\repos\Aula03Variaveis\Aula03Variaveis\obj\Debug\Aula03Variaveis.csproj.CoreCompileInputs.cache
+C:\Users\victor.hsantos45\source\repos\Aula03Variaveis\Aula03Variaveis\obj\Debug\Aula03Variaveis.exe
+C:\Users\victor.hsantos45\source\repos\Aula03Variaveis\Aula03Variaveis\obj\Debug\Aula03Variaveis.pdb
+C:\Users\victor.hsantos45\source\repos\Aula03Variaveis\Aula03Variaveis\obj\Debug\Aula03Variaveis.csproj.AssemblyReference.cache
